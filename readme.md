@@ -8,7 +8,7 @@
    ```bash
    pip install tinydb
 ## Использование
-```python data_processor.py ```   
+```python find_data.py ```   
 Запуск через командную строку:
 
 ```bash
